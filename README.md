@@ -1,2 +1,1 @@
-# jaja
-just_basic_stuffs
+Welcome friends to my github login page
